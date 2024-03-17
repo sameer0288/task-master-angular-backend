@@ -1,0 +1,6 @@
+{
+    "jwt": {
+        "secret": "SoMeSeCretHeRe",
+        "expiry": "10m"
+    }
+}
